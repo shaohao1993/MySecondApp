@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value = "Multi_weather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.niceshao.viewpagetest.db.Province"/>
+        <mapping class="com.niceshao.viewpagetest.db.City"/>
+        <mapping class="com.niceshao.viewpagetest.db.County"/>
+    </list>
+</litepal>

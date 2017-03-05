@@ -1,4 +1,4 @@
-package db;
+package com.niceshao.viewpagetest.db;
 
 import org.litepal.crud.DataSupport;
 

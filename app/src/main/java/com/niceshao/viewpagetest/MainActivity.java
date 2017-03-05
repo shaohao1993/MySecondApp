@@ -53,10 +53,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     public void initFragmetList() {
-        Fragment chat = new ChatFragment();
+        Fragment Frag1 = new ChooseAreaFragment();
         Fragment friend = new FriendFragment();
         Fragment find = new FindFragment();
-        mFragmentList.add(chat);
+        mFragmentList.add(Frag1);
         mFragmentList.add(friend);
         mFragmentList.add(find);
     }
